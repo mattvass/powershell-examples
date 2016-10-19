@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OlbrConfig>
+	<RootDirectory>D:\</RootDirectory>
+	<Username>mv123</Username>
+	<Password>abcd123</Password>
+	<Workspace>D:\development\workspace</Workspace>
+	<Applications>
+		<Application>
+			<Name>Test 1</Name>
+			<Installed>True</Installed>		
+		</Application>
+		<Application>
+			<Name>Test 2</Name>
+			<Installed>False</Installed>		
+		</Application>
+	</Applications>	
+</OlbrConfig>
